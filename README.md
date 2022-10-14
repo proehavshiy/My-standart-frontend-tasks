@@ -40,7 +40,7 @@ This repository is dedicated to my implementations of standard front-end tasks a
 - [ ] [Header & burger menu layout / Верстка хедера и бургер-меню]()
 - [ ] [Filter bar / Фильтр-панель]()
 - [ ] [Dropdown / Выпадающая панель]()
-- [ ] [Custom checkbox / Стилизация чекбокса]()
+- [x] [Custom checkbox / Стилизация чекбокса](https://github.com/proehavshiy/My-standart-frontend-tasks/blob/main/CustomCheckBox.md)
 - [x] [Tabs section / Секция с табами](https://github.com/proehavshiy/My-standart-frontend-tasks/blob/main/Tabs.MD)
 - [ ] [Accordion / Аккордеон]()
 - [ ] [Modal / Модальное окно]()
