@@ -18,6 +18,7 @@ This repository is dedicated to my implementations of standard front-end tasks a
 - [ ] [Add new item to list/ Добавление в список]()
 - [ ] [Delete item from list / Удаление из списка]()
 - [ ] [Edit list's item / Редактировать айтем списка]()
+- [x] [Images lazy-loading by scroll with Intersection Observer / Ленивая загрузка изображений](https://github.com/proehavshiy/image-lazy-loading/tree/main)
 #### List's filtration
 - [ ] [Filter by input text / Фильтрация по тексту через инпут]()
 - [ ] [Filter by date / Фильтрация по дате]()
