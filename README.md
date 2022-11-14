@@ -35,6 +35,7 @@ This repository is dedicated to my implementations of standard front-end tasks a
 ### Work with HTML/CSS
 #### Transitions & animations:
 - [ ] [Smooth element's appearance and disappearance / Плавное появление и исчезание элемента]()
+- [x] [Fade color change with scrolling / плавная смена цвета блока при прокрутке](https://github.com/proehavshiy/fade-color-change-with-scrolling/tree/main)
 - [ ] [Element's height smooth animation / Анимация высоты элемента]()
 - [ ] [Left- right- top- bottom-side animation / Анимация появления]()
 #### Standart layout components:
