@@ -48,5 +48,5 @@ This repository is dedicated to my implementations of standard front-end tasks a
 - [ ] [Modal / Модальное окно]()
 - [ ] [Step form / Ступенчатая форма]()
 - [ ] [Swiper / Карусель]()
-- [ ] [ / ]()
+- [x] [Scrolling progress-bar and scrollToTop button / Прогресс-бар скролла и кнопка прокрутки в начало](https://github.com/proehavshiy/scroll-progress-bar-task/tree/main)
 
