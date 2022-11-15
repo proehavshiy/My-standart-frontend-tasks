@@ -13,7 +13,7 @@ This repository is dedicated to my implementations of standard front-end tasks a
 ## Tasks:
 ### Work with lists
 - [ ] [Virtualized list / Виртуализированный список]()
-- [ ] [Infinite scroll / Бесконечный скролл]()
+- [x] [Infinite scroll / Бесконечный скролл](https://github.com/proehavshiy/infinite-scrolling/tree/main)
 - [ ] [Pagination (by tabs or by button) / Пагинация]()
 - [ ] [Add new item to list/ Добавление в список]()
 - [ ] [Delete item from list / Удаление из списка]()
