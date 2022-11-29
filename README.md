@@ -45,7 +45,7 @@ This repository is dedicated to my implementations of standard front-end tasks a
 - [ ] [Dropdown / Выпадающая панель]()
 - [x] [Custom checkbox / Стилизация чекбокса](https://github.com/proehavshiy/My-standart-frontend-tasks/blob/main/CustomCheckBox.md)
 - [x] [Tabs section / Секция с табами](https://github.com/proehavshiy/My-standart-frontend-tasks/blob/main/Tabs.MD)
-- [ ] [Accordion / Аккордеон]()
+- [x] [Accordion / Аккордеон](https://github.com/proehavshiy/accordeon)
 - [ ] [Modal / Модальное окно]()
 - [ ] [Step form / Ступенчатая форма]()
 - [ ] [Swiper / Карусель]()
